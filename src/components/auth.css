@@ -1,0 +1,36 @@
+
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  text-align: center;
+
+}
+
+ .main{
+    width: 40%;
+    display: flex;
+    margin-left: 30%;
+    flex-direction: column;
+    padding: 40px;
+    margin-top: 6%;
+    margin-bottom: 3%;
+   box-shadow: 1px 1px 8px rgba(0,0,0,0.65);
+}
+.ip1{
+   width:50%;
+   margin-left: 25%;
+   padding: 10px;
+   border-radius: 6px;
+   text-align: center;
+}
+.buttons{
+    display: flex;
+    gap: 2%;
+    justify-content: center;
+    margin-top: 3%;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+}  
